@@ -1,0 +1,4 @@
+#Sat Jan 14 20:51:10 CST 2023
+base.0=C\:\\Users\\10498\\Desktop\\bird_classification_app\\client\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
